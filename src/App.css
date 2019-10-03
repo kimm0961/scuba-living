@@ -1,0 +1,16 @@
+.bg-grey{
+ background-color: #cccccc;
+}
+
+.bg-black{
+    background-color: #252525;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.text-big{
+    font-size: 30px;
+    font-weight: 350;
+}

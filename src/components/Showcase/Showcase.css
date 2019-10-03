@@ -1,0 +1,14 @@
+.Showcase .overlay{
+    position: inherit;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255,255,255, 0.7);
+}
+
+.Showcase img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
